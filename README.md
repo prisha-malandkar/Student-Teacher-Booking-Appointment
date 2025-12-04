@@ -73,7 +73,7 @@ To run this project locally, follow these steps:
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/rudrax14/MERN_STACK-StudentTeacher-Booking-Appointment
+    git clone https://github.com/prisha-malandkar/Student-Teacher-Booking-Appointment
     ```
 
 2. **Install backend dependencies:**
@@ -141,24 +141,6 @@ The application should now be running on `http://localhost:5173/`.
     - Book appointments with teachers.
     - Send email alerts and messages to teachers.
 
-## Screenshots
-
-Landing Page 
-
-![landingpage Dark](https://github.com/rudrax14/MERN_STACK-StudentTeacher-Booking-Appointment/assets/97178716/d3d4b1ef-e3ff-413e-afd4-3dabce321705)
-
-Student Dashboard
-
-![student dashboard dark](https://github.com/rudrax14/MERN_STACK-StudentTeacher-Booking-Appointment/assets/97178716/ab39e093-3bad-4101-982d-5eb459593580)
-
-Teacher Dashboard
-
-![teacher d Dark](https://github.com/rudrax14/MERN_STACK-StudentTeacher-Booking-Appointment/assets/97178716/ab56fb55-e38f-47d9-9622-0e48257d06e5)
-
-
-Admin Dashboard
-
-![admin ](https://github.com/rudrax14/MERN_STACK-StudentTeacher-Booking-Appointment/assets/97178716/5a3a856a-e26c-4e83-8179-1bb4da6ee810)
 
 ## Login
 
